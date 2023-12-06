@@ -15,7 +15,7 @@ function HeadWrapper() {
       {/* Inner header section with description */}
       <div className="innerHead headDesc">
         {/* User email */}
-        <span className="headEmail">kanishkchhabra23@gmail.com  </span>
+        <span className="headEmail">anujs136@gmail.com  </span>
         {/* Switch Account link */}
         <a href="#">Switch Account</a>
         <div>
